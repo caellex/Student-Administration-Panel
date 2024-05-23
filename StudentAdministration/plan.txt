@@ -1,0 +1,7 @@
+Gjennomsnittskarakter:
+
+Implementer en metode i Student-klassen som beregner gjennomsnittskarakteren for studenten basert på karakterene de har fått.
+
+Studiepoeng:
+
+Implementer en metode i Student-klassen som beregner totalt antall studiepoeng basert på fagene studenten tar.
